@@ -6,6 +6,12 @@ install and configure an instance with generated content.
 
 ## Installation
 
+Clone the profile from the document root:
+
+```
+git clone --recursive git@github.com:ellioseven/titus-test.git profiles/titus_test
+```
+
 Install the profile:
 
 ```
