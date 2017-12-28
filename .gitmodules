@@ -5,7 +5,7 @@
 [submodule "modules/contrib/file_entity"]
 	path = modules/contrib/file_entity
 	url = https://git.drupal.org/project/file_entity.git
-	branch = 8.x-1.x
+	branch = 8.x-2.x
 [submodule "modules/contrib/paragraphs"]
 	path = modules/contrib/paragraphs
 	url = https://git.drupal.org/project/paragraphs.git
