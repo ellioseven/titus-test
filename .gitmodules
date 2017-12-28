@@ -14,3 +14,7 @@
 	path = themes/titus
 	url = git@github.com:ellioseven/titus.git
 	branch = develop
+[submodule "modules/contrib/file_entity"]
+	path = modules/contrib/file_entity
+	url = https://git.drupal.org/project/file_entity.git
+	branch = 8.x.2.x
