@@ -4,6 +4,11 @@ The Titus testing distribution provides regression testing capabilities for the
 [Titus](https://github.com/ellioseven/titus) administration theme. It will
 install and configure an instance with generated content.
 
+## Requirements
+
+- Docker (17.05.0)
+- Docker Compose (1.8.0)
+
 ## Installation
 
 Clone the profile from the document root:
