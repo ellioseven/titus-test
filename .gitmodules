@@ -1,0 +1,20 @@
+[submodule "modules/contrib/default_content"]
+	path = modules/contrib/default_content
+	url = https://git.drupal.org/project/default_content.git
+	branch = 8.x-1.x
+[submodule "modules/contrib/file_entity"]
+	path = modules/contrib/file_entity
+	url = https://git.drupal.org/project/file_entity.git
+	branch = 8.x-1.x
+[submodule "modules/contrib/paragraphs"]
+	path = modules/contrib/paragraphs
+	url = https://git.drupal.org/project/paragraphs.git
+	branch = 8.x-1.x
+[submodule "modules/contrib/token"]
+	path = modules/contrib/token
+	url = https://git.drupal.org/project/token.git
+	branch = 8.x-1.x
+[submodule "themes/titus"]
+	path = themes/titus
+	url = git@github.com:ellioseven/titus.git
+	branch = develop
