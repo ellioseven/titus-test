@@ -10,11 +10,11 @@
 	path = modules/contrib/token
 	url = https://git.drupal.org/project/token.git
 	branch = 8.x-1.x
-[submodule "themes/titus"]
-	path = themes/titus
-	url = git@github.com:ellioseven/titus.git
-	branch = develop
 [submodule "modules/contrib/file_entity"]
 	path = modules/contrib/file_entity
 	url = https://git.drupal.org/project/file_entity.git
 	branch = 8.x.2.x
+[submodule "themes/titus"]
+	path = themes/titus
+	url = git@github.com:ellioseven/titus.git
+	branch = develop
