@@ -1,0 +1,14 @@
+version: "2"
+services:
+  puppeteer:
+    shm_size: 4g
+    user: node
+    build: ./
+    network_mode: "host"
+    environment:
+      - APP_URL=
+      - APP_USER=
+      - APP_PASS=
+      - APP_TMP=/tmp
+    volumes:
+      - ./:/app

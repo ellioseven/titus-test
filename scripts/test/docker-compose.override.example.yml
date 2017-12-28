@@ -1,0 +1,7 @@
+version: "2"
+services:
+  puppeteer:
+    environment:
+      - APP_URL=http://example.local
+      - APP_USER=admin
+      - APP_PASS=password

@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "jest": "^21.2.1",
+    "jest-image-snapshot": "^2.2.0",
+    "puppeteer": "^0.13.0"
+  },
+  "scripts": {
+    "test": "node login.es6.js && jest tests/*"
+  }
+}

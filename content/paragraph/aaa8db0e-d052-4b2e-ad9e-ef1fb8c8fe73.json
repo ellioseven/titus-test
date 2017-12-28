@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/accordion_item"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/accordion_item\/uid": [
+            {
+                "href": "http:\/\/localhost\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/accordion_item\/revision_uid": [
+            {
+                "href": "http:\/\/localhost\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "aaa8db0e-d052-4b2e-ad9e-ef1fb8c8fe73"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 1
+        }
+    ],
+    "type": [
+        {
+            "target_id": "accordion_item"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/accordion_item\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/localhost\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "28118e80-6a2b-414b-b16b-c3fa4cd3a5b0"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/accordion_item\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/localhost\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "28118e80-6a2b-414b-b16b-c3fa4cd3a5b0"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-12-28T07:47:21+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "2"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "paragraph"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "field_accordion_items"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": "a:0:{}"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "field_body": [
+        {
+            "value": "<p>Accumsan dolus eum refoveo. Abbas aliquam defui ex interdico nobis qui sudo utinam ymo. Euismod facilisis feugiat nutus rusticus vereor.<\/p>\r\n\r\n<p>Abico augue bene caecus enim esse nibh roto rusticus turpis. Iaceo melior velit virtus volutpat. Cogo commodo consequat natu persto pneum ratis similis tum usitas. Ea olim patria plaga qui. Consectetuer jugis lucidus mauris natu tego valetudo voco. Aliquip eu jumentum minim singularis ymo. Bene camur commoveo consectetuer esca ex plaga vel veniam vulpes.<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Blandit euismod gravis paulatim.",
+            "format": "basic_html"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/localhost\/taxonomy\/term\/1?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/tags"
+        }
+    },
+    "tid": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "66a24717-ecfb-4f9c-86f9-309e670a93b5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags"
+        }
+    ],
+    "name": [
+        {
+            "value": "Dolur est",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "value": "<p>Dolurm est polurm fehr.<\/p>\r\n",
+            "format": "basic_html",
+            "lang": "en"
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-12-28T07:45:33+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ]
+}
